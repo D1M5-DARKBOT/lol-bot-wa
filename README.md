@@ -17,15 +17,16 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/D1M5-DARKBOT/termux-bot-whatsapp
-> cd termux-bot-whatsapp
+> git clone https://github.com/D1M5-DARKBOT/lol-bot-wa
+> cd lol-bot-wa
 > npm cache clear
 > bash install.sh
 > npm audit fix
 > npm start / node index.js
 ```
 
-
+* [LolHuman](https://lolhuman.herokuapp.com/docs)
+* [Contanc LolHuman](https://wa.me/62895418200111)
 
 ## Features
 
