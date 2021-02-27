@@ -21,6 +21,7 @@ Follow The Steps Below!
 > cd lol-bot-wa
 > npm cache clear
 > bash install.sh
+> npm install base64-img
 > npm audit fix
 > npm start / node index.js
 ```
